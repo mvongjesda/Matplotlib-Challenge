@@ -5,7 +5,7 @@ This project uses python, pandas, and matplotlib to analyze the efficacies of ca
 
 ## Study Findings
 This study focused on the treatment drug effects of Capomulin, Infubinol, and Ketapril, as well as a placebo therapy during mice trials. 
-The drug Capomulin was the most effective at decreasing tumor size and reducing the rate of metatastic spread compared to placebo and the other two study drugs in the course of the experiment.
+The drug Capomulin was the most effective at reducing the rate of metatastic spread compared to placebo and the other two study drugs in the course of the experiment.
 ![](Pymaceuticals/images/Plot2.png)
 
 Furthermore, Capomulin was the only drug of the four compared variables (Capomulin,Infubinol, Ketapril, and Placebo) that actually decreased tumor size instead of just slowing down the progression of tumor mass increase.
