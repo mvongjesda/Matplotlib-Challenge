@@ -1,10 +1,10 @@
 # Matplotlib-Challenge
  
-This project uses python, pandas, and matplotlib to analyze the efficacies of cancer-treating drugs on metastatic spread and survival rates in mice trials.
+This project uses python, pandas, and matplotlib to analyze the efficacies of cancer-treating drugs on metastatic spread and survival rates.
 
 
 ### Study Findings
-This study focused on the treatment drugs of Capomulin, Infubinol, and Ketapril, as well as a placebo therapy. 
+This study focused on the treatment drug effects of Capomulin, Infubinol, and Ketapril, as well as a placebo therapy during mice trials. 
 The drug Capomulin was the most effective at decreasing tumor size and reducing the rate of metatastic spread compared to placebo and the other two study drugs in the course of the experiment.
 ![](Pymaceuticals/images/Plot2.png)
 
