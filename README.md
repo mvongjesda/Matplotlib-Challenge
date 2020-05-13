@@ -13,8 +13,10 @@ The drug Capomulin was the only drug of the four compared variables (Capomulin,I
 Furthermore, Capomulin was the most effective at reducing the rate of metatastic spread compared to placebo and the other two study drugs in the course of the experiment.
 ![](Pymaceuticals/images/Plot2.png)
 
-Mouse survival rates were the highest in the group treated with Capomulin (over 80% survived the course of treatment of 45 days), compared to less than 50% mouse survival rate of the Placebo, Infubinol, Ketapril groups.
+Mouse survival rates were also the highest in the group treated with Capomulin (over 80% survived the course of treatment of 45 days), compared to less than 50% mouse survival rate of the Placebo, Infubinol, Ketapril groups.  
 ![](Pymaceuticals/images/Plot3.png)
+
+Of the drugs analyzed in this focused study, Capomulin had the highest efficacy on the trials on mice, and is the best choice in continuing further trials and investment for cancer therapy.
 
 
 -----------------------------------------------------------
