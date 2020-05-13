@@ -9,7 +9,7 @@ The drug Capomulin was the most effective at decreasing tumor size and reducing 
 ![](Pymaceuticals/images/Plot2.png)
 
 Furthermore, Capomulin was the only drug of the four compared variables (Capomulin,Infubinol, Ketapril, and Placebo) that actually decreased tumor size instead of just slowing down the progression of tumor mass increase.
-![](Pymaceuticals/images/Plot1.png)
+<img src="Pymaceuticals/images/Plot1.png" width=600 height=350>
 
 <img src="Pymaceuticals/images/Plot4.png" width=600 height=350>
 
