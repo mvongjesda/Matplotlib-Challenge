@@ -11,7 +11,7 @@ The drug Capomulin was the most effective at decreasing tumor size and reducing 
 Furthermore, Capomulin was the only drug of the four compared variables (Capomulin,Infubinol, Ketapril, and Placebo) that actually decreased tumor size instead of just slowing down the progression of tumor mass increase.
 <img src="Pymaceuticals/images/Plot1.png" width=600 height=350>
 
-<img src="Pymaceuticals/images/Plot4.png" width=600 height=250>
+<img src="Pymaceuticals/images/Plot4.png" width=500 height=350>
 
 Mouse survival rates were the highest in the group treated with Capomulin (over 80% survived the course of treatment of 45 days), compared to less than 50% mouse survival rate of the Placebo, Infubinol, Ketapril groups.
 ![](Pymaceuticals/images/Plot3.png)
