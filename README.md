@@ -16,7 +16,7 @@ Furthermore, Capomulin was the most effective at reducing the rate of metatastic
 Mouse survival rates were also the highest in the group treated with Capomulin (over 80% survived the course of treatment of 45 days), compared to less than 50% mouse survival rate of the Placebo, Infubinol, Ketapril groups.  
 ![](Pymaceuticals/images/Plot3.png)
 
-Of the drugs analyzed in this focused study, Capomulin had the highest efficacy on the trials on mice, and is the best choice in continuing further trials and investment for cancer therapy.
+Overall, Capomulin had the highest efficacy on the study trials on mice, and is the best choice out of the drugs analyzed in this study in continuing further trials and investment for cancer therapy.
 
 
 -----------------------------------------------------------
